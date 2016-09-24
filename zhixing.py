@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import os
 
-for j in range(1,10):
+for j in range(30,40):
 
     k='/home/sonny/static_test/%d' %j
 
