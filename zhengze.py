@@ -5,14 +5,10 @@ import re
 # file_cnt = 0
 lib_cnt = {}
 
-file = open("/home/sonny/1.txt")
+file = open("/home/sonny/usrbin.txt")
 lines = file.readlines()
 for line in lines:
-# 	match = re.match(".*:", line)
-# 	if(match):
-# 		#print(line)
-# 		file_cnt += 1
-# 		continue
+
 
 	match = re.match("\s*(.*)\s*=>\s*(.*)\s*(\(.*\))", line)
 	# lib_path = ""
