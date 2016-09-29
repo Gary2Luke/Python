@@ -1,33 +1,32 @@
 #!/usr/bin/python
 # coding = UFT-8
 import re
-# from collections import Counter
-# file_cnt = 0
-lib_cnt = {}
-
-file = open("/home/sonny/usrbin.txt")
+import os
+dynamic=[]
+static=[]
+file = open("/home/sonny/2222.txt")
 lines = file.readlines()
+
 for line in lines:
+	match = re.match(".*:", line)
+	if (match):
+		a=line.split(":", 1)[0]
+		# print line.split(":", 1)[0]
+		k = 'cp /bin/%s /home/sonny/benchmark/library/' %a
+		if 'linked' in line:
+			os.system(k)
+		if 'symbolic' in line:
+
+			b = line.split(" ", )[-1]
+			# print b
+			m='cp %s /home/sonny/benchmark/library/' %b.replace('\n','')
+			# print m
+			os.system(m)
+	continue
+	# if "dynamically linked" in line:
+	# 	dynamic.append(line)
+	# if 'statically linked' in line:
+	# 	static.append(line)
 
 
-	match = re.match("\s*(.*)\s*=>\s*(.*)\s*(\(.*\))", line)
-	# lib_path = ""
-	if(match):
-		if(match.group(2) == ""):
-			lib_path = match.group(1)
-		else:
-			lib_path = match.group(2)
-		if(lib_path not in lib_cnt):
-			lib_cnt[lib_path] = 1
-		else:
-			lib_cnt[lib_path] += 1
-
-# for lib in lib_cnt:
-# 	print("%s\t\t%d" % (lib, lib_cnt[lib]))
-#  b=Counter(lib_cnt)
-b=lib_cnt
-d=sorted(b.iteritems(), key=lambda t: t[1], reverse=True)
-
-for x in d:
-    print x
 

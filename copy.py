@@ -4,12 +4,12 @@ import os
 
 for j in range(1,221):
     i=str(j).rjust(3, '0')
-    k='/home/sonny/code/%s/%d_static' %(i,j)
-    h='/home/sonny/code/%s/%d' % (i,j)
+    k='/home/sonny/sourcecode/%d.c' %j
+    h='/home/sonny/code/%s' %i
     if os.path.exists(k):
 
-        os.rename(k, h)
-        m='cp /home/sonny/code/%s/%d /home/sonny/static_test/' %(i,j)
+
+        m='cp /home/sonny/sourcecode/%d.c /home/sonny/code/%s/' %(j,i)
 
 
         os.system(m)

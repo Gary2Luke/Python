@@ -4,12 +4,12 @@ import os
 
 for j in range(1,221):
     i = str(j).rjust(3, '0')
-    k='/home/sonny/static_test/%d' %j
+    k='/home/sonny/code/%s/%d' %(i,j)
 
-    if not os.path.exists(k):
+    if os.path.exists(k):
 
 
-        m='rm -rf /home/sonny/code/%s' %i
+        m='rm /home/sonny/code/%s/%d' %(i,j)
 
 
         os.system(m)
