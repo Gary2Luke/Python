@@ -5,7 +5,7 @@ from collections import Counter
 
 lib_cnt = {}
 
-out= file('lddresultAnalyze.txt','w')
+out= file('jre_library.txt','w')
 gg = file("lddResult.txt",'r')
 for line in gg.readlines():
 	match = re.match(".*:", line)
