@@ -1,3 +1,515 @@
+	linux-vdso.so.1 =>  (0x00007fff979fe000)
+	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f4571432000)
+	libaprutil-1.so.0 => /usr/lib/x86_64-linux-gnu/libaprutil-1.so.0 (0x00007f457120b000)
+	libapr-1.so.0 => /usr/lib/x86_64-linux-gnu/libapr-1.so.0 (0x00007f4570fd8000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f4570dbb000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f45709f2000)
+	libcrypt.so.1 => /lib/x86_64-linux-gnu/libcrypt.so.1 (0x00007f45707b9000)
+	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007f4570590000)
+	libuuid.so.1 => /lib/x86_64-linux-gnu/libuuid.so.1 (0x00007f457038b000)
+	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f4570186000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005577dbfac000)
+	linux-vdso.so.1 =>  (0x00007ffd31f4a000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f6cd8382000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f6cd7fb9000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000560e49664000)
+	linux-vdso.so.1 =>  (0x00007ffe99fc4000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f4273ec8000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f4273aff000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005586b227a000)
+	linux-vdso.so.1 =>  (0x00007ffed5b60000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fcd01eb9000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fcd01af0000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000558b63827000)
+	linux-vdso.so.1 =>  (0x00007fff225f5000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007faf86e94000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007faf86acb000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055f5db326000)
+	linux-vdso.so.1 =>  (0x00007ffebfbaf000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f84dbfed000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f84dbc24000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005620ff8cd000)
+	linux-vdso.so.1 =>  (0x00007ffe39bb6000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fbd77d34000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fbd7796b000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000563f677c9000)
+	linux-vdso.so.1 =>  (0x00007fff7af7d000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007feb20421000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007feb20058000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055ad03615000)
+	linux-vdso.so.1 =>  (0x00007ffd0e7f2000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fef01767000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fef0139e000)
+	/lib64/ld-linux-x86-64.so.2 (0x000056103e98b000)
+	linux-vdso.so.1 =>  (0x00007ffea3934000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f5b93b70000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f5b937a7000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055a48863d000)
+	linux-vdso.so.1 =>  (0x00007ffdf2c72000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fa53e483000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fa53e0ba000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000557659858000)
+	linux-vdso.so.1 =>  (0x00007ffd828a1000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007ff2a5f79000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ff2a5bb0000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055596a710000)
+	linux-vdso.so.1 =>  (0x00007ffd4c392000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fcb4385b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fcb43492000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000564e4f3e2000)
+	linux-vdso.so.1 =>  (0x00007ffe33325000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fc76e11b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc76dd52000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055616e4ef000)
+	linux-vdso.so.1 =>  (0x00007ffeb4faa000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f443b48e000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f443b0c5000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005585e6c17000)
+	linux-vdso.so.1 =>  (0x00007ffca937b000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f0f7552f000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f0f75166000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005557c8ca5000)
+	linux-vdso.so.1 =>  (0x00007ffe32dfa000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fe97704d000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fe976c84000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005593bc42a000)
+	linux-vdso.so.1 =>  (0x00007fffc2d49000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fe5e2e12000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fe5e2a49000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000564334e6d000)
+	linux-vdso.so.1 =>  (0x00007ffd1ebf2000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fbe040e0000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fbe03d17000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000557b1851f000)
+	linux-vdso.so.1 =>  (0x00007ffee13f8000)
+	libxml2.so.2 => /usr/lib/x86_64-linux-gnu/libxml2.so.2 (0x00007f4f9c49e000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f4f9c281000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f4f9beb7000)
+	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f4f9bcb3000)
+	libicuuc.so.55 => /usr/lib/x86_64-linux-gnu/libicuuc.so.55 (0x00007f4f9b91f000)
+	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007f4f9b704000)
+	liblzma.so.5 => /lib/x86_64-linux-gnu/liblzma.so.5 (0x00007f4f9b4e2000)
+	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f4f9b1d9000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000556c39157000)
+	libicudata.so.55 => /usr/lib/x86_64-linux-gnu/libicudata.so.55 (0x00007f4f99721000)
+	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f4f9939f000)
+	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f4f99189000)
+	linux-vdso.so.1 =>  (0x00007fffbdf85000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f1768fe1000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f1768c18000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005603aaea8000)
+	linux-vdso.so.1 =>  (0x00007fff11bf8000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f62156e2000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f6215319000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000563798adb000)
+	linux-vdso.so.1 =>  (0x00007ffda0991000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fb757d25000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fb75795c000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000558545981000)
+	linux-vdso.so.1 =>  (0x00007fffb95ba000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fd90d42b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fd90d062000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000561d34262000)
+	linux-vdso.so.1 =>  (0x00007ffe73bf8000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f087c238000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f087be6f000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005624b0fa6000)
+	linux-vdso.so.1 =>  (0x00007fff371f3000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f3851281000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f3850eb8000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005635f7633000)
+	linux-vdso.so.1 =>  (0x00007ffebf184000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f4255922000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f4255559000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055ed1be47000)
+	linux-vdso.so.1 =>  (0x00007fffe01f1000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fedc30e3000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fedc2d1a000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055e8cbcdb000)
+	linux-vdso.so.1 =>  (0x00007ffcf3781000)
+	libssl.so.1.0.0 => /lib/x86_64-linux-gnu/libssl.so.1.0.0 (0x00007f9e7fc8c000)
+	libcrypto.so.1.0.0 => /lib/x86_64-linux-gnu/libcrypto.so.1.0.0 (0x00007f9e7f848000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f9e7f62a000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f9e7f261000)
+	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f9e7f05d000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005626088d7000)
+	linux-vdso.so.1 =>  (0x00007ffdb07ec000)
+	libxml2.so.2 => /usr/lib/x86_64-linux-gnu/libxml2.so.2 (0x00007f441ab33000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f441a916000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f441a54c000)
+	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f441a348000)
+	libicuuc.so.55 => /usr/lib/x86_64-linux-gnu/libicuuc.so.55 (0x00007f4419fb4000)
+	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007f4419d99000)
+	liblzma.so.5 => /lib/x86_64-linux-gnu/liblzma.so.5 (0x00007f4419b77000)
+	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f441986e000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000557d42043000)
+	libicudata.so.55 => /usr/lib/x86_64-linux-gnu/libicudata.so.55 (0x00007f4417db6000)
+	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f4417a34000)
+	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f441781e000)
+	linux-vdso.so.1 =>  (0x00007ffd534db000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f8a59b9f000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f8a597d6000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055ee217d7000)
+	linux-vdso.so.1 =>  (0x00007ffc895d4000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f2c7028a000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f2c6fec1000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005639977b7000)
+	linux-vdso.so.1 =>  (0x00007ffe303f6000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f6432507000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f643213e000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055d855e9b000)
+	linux-vdso.so.1 =>  (0x00007fff31bfc000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fd2c8e66000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fd2c8a9d000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005603b76b8000)
+	linux-vdso.so.1 =>  (0x00007ffd2723e000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f199726b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f1996ea2000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055a19d2f8000)
+	linux-vdso.so.1 =>  (0x00007ffd6e5f2000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fb8b8c6a000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fb8b88a1000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000562beeb3a000)
+	linux-vdso.so.1 =>  (0x00007fffb1099000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f77c6753000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f77c638a000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000562d9cce8000)
+	linux-vdso.so.1 =>  (0x00007fffc6c96000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f63a16cd000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f63a1304000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005556eeb1a000)
+	linux-vdso.so.1 =>  (0x00007ffdc5506000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fe3a1251000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fe3a0e88000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055ee22264000)
+	linux-vdso.so.1 =>  (0x00007ffcc4d8e000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f8f5b48f000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f8f5b0c6000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055e2dc985000)
+	linux-vdso.so.1 =>  (0x00007ffdd19ac000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fbe17563000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fbe1719a000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055e8b77e3000)
+	linux-vdso.so.1 =>  (0x00007ffe9ddf8000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fdc6ee7f000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fdc6eab6000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055c1bc7b3000)
+	linux-vdso.so.1 =>  (0x00007ffd5bd9d000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007ff24391b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ff243552000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000556047288000)
+	linux-vdso.so.1 =>  (0x00007ffdfe9b5000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f8024319000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f8023f50000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055f0acd3b000)
+	linux-vdso.so.1 =>  (0x00007ffd70f4b000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fa02348b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fa0230c2000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055ece5a5b000)
+	linux-vdso.so.1 =>  (0x00007ffc1efb0000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007efcaf8cb000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007efcaf502000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000564317402000)
+	linux-vdso.so.1 =>  (0x00007ffe37778000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f749f692000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f749f2c9000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005613dbf26000)
+	linux-vdso.so.1 =>  (0x00007ffc75d87000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f4b0446b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f4b040a2000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000561ab6a92000)
+	linux-vdso.so.1 =>  (0x00007ffd4bfa4000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fb90452b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fb904162000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055575791e000)
+	linux-vdso.so.1 =>  (0x00007ffc6fab7000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f3c042ac000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f3c03ee3000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005608ca192000)
+	linux-vdso.so.1 =>  (0x00007ffcae6ad000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007ff4adaec000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ff4ad723000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000564ba11b2000)
+	linux-vdso.so.1 =>  (0x00007ffd64115000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f62dc56a000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f62dc1a1000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055a3f65c1000)
+	linux-vdso.so.1 =>  (0x00007ffcaf3ee000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fb80c7b5000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fb80c3ec000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005630257d5000)
+	linux-vdso.so.1 =>  (0x00007ffe0e5f8000)
+	libldap_r-2.4.so.2 => /usr/lib/x86_64-linux-gnu/libldap_r-2.4.so.2 (0x00007fc843fdd000)
+	liblber-2.4.so.2 => /usr/lib/x86_64-linux-gnu/liblber-2.4.so.2 (0x00007fc843dce000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fc843bb0000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc8437e7000)
+	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007fc8435cc000)
+	libsasl2.so.2 => /usr/lib/x86_64-linux-gnu/libsasl2.so.2 (0x00007fc8433b0000)
+	libgssapi.so.3 => /usr/lib/x86_64-linux-gnu/libgssapi.so.3 (0x00007fc84316f000)
+	libgnutls.so.30 => /usr/lib/x86_64-linux-gnu/libgnutls.so.30 (0x00007fc842e3f000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000564882bde000)
+	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fc842c3a000)
+	libheimntlm.so.0 => /usr/lib/x86_64-linux-gnu/libheimntlm.so.0 (0x00007fc842a31000)
+	libkrb5.so.26 => /usr/lib/x86_64-linux-gnu/libkrb5.so.26 (0x00007fc8427a7000)
+	libasn1.so.8 => /usr/lib/x86_64-linux-gnu/libasn1.so.8 (0x00007fc842504000)
+	libcom_err.so.2 => /lib/x86_64-linux-gnu/libcom_err.so.2 (0x00007fc842300000)
+	libhcrypto.so.4 => /usr/lib/x86_64-linux-gnu/libhcrypto.so.4 (0x00007fc8420cd000)
+	libroken.so.18 => /usr/lib/x86_64-linux-gnu/libroken.so.18 (0x00007fc841eb6000)
+	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007fc841c9c000)
+	libp11-kit.so.0 => /usr/lib/x86_64-linux-gnu/libp11-kit.so.0 (0x00007fc841a38000)
+	libidn.so.11 => /usr/lib/x86_64-linux-gnu/libidn.so.11 (0x00007fc841804000)
+	libtasn1.so.6 => /usr/lib/x86_64-linux-gnu/libtasn1.so.6 (0x00007fc8415f1000)
+	libnettle.so.6 => /usr/lib/x86_64-linux-gnu/libnettle.so.6 (0x00007fc8413bb000)
+	libhogweed.so.4 => /usr/lib/x86_64-linux-gnu/libhogweed.so.4 (0x00007fc841187000)
+	libgmp.so.10 => /usr/lib/x86_64-linux-gnu/libgmp.so.10 (0x00007fc840f07000)
+	libwind.so.0 => /usr/lib/x86_64-linux-gnu/libwind.so.0 (0x00007fc840cde000)
+	libheimbase.so.1 => /usr/lib/x86_64-linux-gnu/libheimbase.so.1 (0x00007fc840ace000)
+	libhx509.so.5 => /usr/lib/x86_64-linux-gnu/libhx509.so.5 (0x00007fc840883000)
+	libsqlite3.so.0 => /usr/lib/x86_64-linux-gnu/libsqlite3.so.0 (0x00007fc8405ae000)
+	libcrypt.so.1 => /lib/x86_64-linux-gnu/libcrypt.so.1 (0x00007fc840375000)
+	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007fc84016d000)
+	linux-vdso.so.1 =>  (0x00007ffcc71b8000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fa1c32b8000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fa1c2eef000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055a54eefc000)
+	linux-vdso.so.1 =>  (0x00007ffe7f7d8000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007ff21e81e000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ff21e455000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000560728df6000)
+	linux-vdso.so.1 =>  (0x00007fff8c5e6000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fceb58b3000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fceb54ea000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055ba2e608000)
+	linux-vdso.so.1 =>  (0x00007ffca7b71000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f64a616c000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f64a5da3000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005572279c4000)
+	linux-vdso.so.1 =>  (0x00007ffdb0da9000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fbdcfd24000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fbdcf95b000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055c22b51d000)
+	linux-vdso.so.1 =>  (0x00007ffcb7d45000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007ff2db3dc000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ff2db013000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000560d6ac4f000)
+	linux-vdso.so.1 =>  (0x00007ffff43be000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fc45cd5c000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc45c993000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055d8a8214000)
+	linux-vdso.so.1 =>  (0x00007ffcc1293000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f209ec7f000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f209e8b6000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055b262e0e000)
+	linux-vdso.so.1 =>  (0x00007ffcc7f70000)
+	liblua5.1.so.0 => /usr/lib/x86_64-linux-gnu/liblua5.1.so.0 (0x00007ffabb2da000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007ffabb0bd000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ffabacf3000)
+	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007ffaba9ea000)
+	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007ffaba7e6000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055bc98b26000)
+	linux-vdso.so.1 =>  (0x00007fff525f2000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f5dc3d05000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f5dc393c000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000562d96367000)
+	linux-vdso.so.1 =>  (0x00007ffc460dd000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f7d4ed2b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f7d4e962000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005568850c0000)
+	linux-vdso.so.1 =>  (0x00007ffc0d7ba000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f3963c0e000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f3963845000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055be9dc09000)
+	linux-vdso.so.1 =>  (0x00007ffdc1319000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f9e226a5000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f9e222dc000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000563f1513b000)
+	linux-vdso.so.1 =>  (0x00007fff74793000)
+	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007fc20d36b000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fc20d14e000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc20cd84000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000561f589f3000)
+	linux-vdso.so.1 =>  (0x00007ffc8fdc4000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fe7e6bf7000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fe7e682e000)
+	/lib64/ld-linux-x86-64.so.2 (0x000056543cb52000)
+	linux-vdso.so.1 =>  (0x00007ffc323ed000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f7ab8a21000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f7ab8658000)
+	/lib64/ld-linux-x86-64.so.2 (0x000056444335c000)
+	linux-vdso.so.1 =>  (0x00007ffd01d6a000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f6b03d59000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f6b03990000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055860571f000)
+	linux-vdso.so.1 =>  (0x00007fffc5dd9000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f9b11fba000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f9b11bf1000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005641ed34e000)
+	linux-vdso.so.1 =>  (0x00007fff7ffc4000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f24a0112000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f249fd49000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055fe5f19d000)
+	linux-vdso.so.1 =>  (0x00007ffc6b95d000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f10f1a5f000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f10f1696000)
+	/lib64/ld-linux-x86-64.so.2 (0x000056460170e000)
+	linux-vdso.so.1 =>  (0x00007ffc7b1a6000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007effaa40c000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007effaa043000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000558d02b04000)
+	linux-vdso.so.1 =>  (0x00007ffec4bb2000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f882b4cf000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f882b106000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055c2e7693000)
+	linux-vdso.so.1 =>  (0x00007fff437d2000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fce680ce000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fce67d05000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000555ab03a4000)
+	linux-vdso.so.1 =>  (0x00007fffeb56d000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f9f1df18000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f9f1db4f000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000561dccec5000)
+	linux-vdso.so.1 =>  (0x00007ffea433f000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f270a08d000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f2709cc4000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005564872f2000)
+	linux-vdso.so.1 =>  (0x00007ffe833ed000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fc8db09e000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc8dacd5000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055d40283f000)
+	linux-vdso.so.1 =>  (0x00007ffd4b2b5000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f6d354ce000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f6d35105000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055db92dca000)
+	linux-vdso.so.1 =>  (0x00007ffce4cf4000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fad073f6000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fad0702d000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000556c6eb24000)
+	linux-vdso.so.1 =>  (0x00007ffe81dec000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fe54e624000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fe54e25b000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055ba53d81000)
+	linux-vdso.so.1 =>  (0x00007ffce4199000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f81e1b67000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f81e179e000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055f811889000)
+	linux-vdso.so.1 =>  (0x00007ffe35713000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f293d460000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f293d097000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000560eceabb000)
+	linux-vdso.so.1 =>  (0x00007ffddedfe000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f6ebf408000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f6ebf03f000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055a4537b4000)
+	linux-vdso.so.1 =>  (0x00007fffe74ea000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f099cf13000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f099cb4a000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005596646ef000)
+	linux-vdso.so.1 =>  (0x00007ffedf4be000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f7a0d6d2000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f7a0d309000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000562414d02000)
+	linux-vdso.so.1 =>  (0x00007fff2e5e8000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fc6fa1f7000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc6f9e2e000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000560476a4d000)
+	linux-vdso.so.1 =>  (0x00007ffd9dbeb000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f102821f000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f1027e56000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055e0c7cf2000)
+	linux-vdso.so.1 =>  (0x00007ffd59769000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f880e167000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f880dd9e000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000559d74e86000)
+	linux-vdso.so.1 =>  (0x00007ffda15b4000)
+	libldap_r-2.4.so.2 => /usr/lib/x86_64-linux-gnu/libldap_r-2.4.so.2 (0x00007fcbcbd1e000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fcbcbb01000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fcbcb737000)
+	liblber-2.4.so.2 => /usr/lib/x86_64-linux-gnu/liblber-2.4.so.2 (0x00007fcbcb528000)
+	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007fcbcb30d000)
+	libsasl2.so.2 => /usr/lib/x86_64-linux-gnu/libsasl2.so.2 (0x00007fcbcb0f1000)
+	libgssapi.so.3 => /usr/lib/x86_64-linux-gnu/libgssapi.so.3 (0x00007fcbcaeb0000)
+	libgnutls.so.30 => /usr/lib/x86_64-linux-gnu/libgnutls.so.30 (0x00007fcbcab80000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005572a487e000)
+	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fcbca97b000)
+	libheimntlm.so.0 => /usr/lib/x86_64-linux-gnu/libheimntlm.so.0 (0x00007fcbca772000)
+	libkrb5.so.26 => /usr/lib/x86_64-linux-gnu/libkrb5.so.26 (0x00007fcbca4e8000)
+	libasn1.so.8 => /usr/lib/x86_64-linux-gnu/libasn1.so.8 (0x00007fcbca245000)
+	libcom_err.so.2 => /lib/x86_64-linux-gnu/libcom_err.so.2 (0x00007fcbca041000)
+	libhcrypto.so.4 => /usr/lib/x86_64-linux-gnu/libhcrypto.so.4 (0x00007fcbc9e0e000)
+	libroken.so.18 => /usr/lib/x86_64-linux-gnu/libroken.so.18 (0x00007fcbc9bf7000)
+	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007fcbc99dd000)
+	libp11-kit.so.0 => /usr/lib/x86_64-linux-gnu/libp11-kit.so.0 (0x00007fcbc9779000)
+	libidn.so.11 => /usr/lib/x86_64-linux-gnu/libidn.so.11 (0x00007fcbc9545000)
+	libtasn1.so.6 => /usr/lib/x86_64-linux-gnu/libtasn1.so.6 (0x00007fcbc9332000)
+	libnettle.so.6 => /usr/lib/x86_64-linux-gnu/libnettle.so.6 (0x00007fcbc90fc000)
+	libhogweed.so.4 => /usr/lib/x86_64-linux-gnu/libhogweed.so.4 (0x00007fcbc8ec8000)
+	libgmp.so.10 => /usr/lib/x86_64-linux-gnu/libgmp.so.10 (0x00007fcbc8c48000)
+	libwind.so.0 => /usr/lib/x86_64-linux-gnu/libwind.so.0 (0x00007fcbc8a1f000)
+	libheimbase.so.1 => /usr/lib/x86_64-linux-gnu/libheimbase.so.1 (0x00007fcbc880f000)
+	libhx509.so.5 => /usr/lib/x86_64-linux-gnu/libhx509.so.5 (0x00007fcbc85c4000)
+	libsqlite3.so.0 => /usr/lib/x86_64-linux-gnu/libsqlite3.so.0 (0x00007fcbc82ef000)
+	libcrypt.so.1 => /lib/x86_64-linux-gnu/libcrypt.so.1 (0x00007fcbc80b6000)
+	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007fcbc7eae000)
+	linux-vdso.so.1 =>  (0x00007ffdc0b81000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f6d6aad9000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f6d6a710000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005568032f6000)
+	linux-vdso.so.1 =>  (0x00007ffd7c5e8000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f20e60b4000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f20e5ceb000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055a4b0794000)
+	linux-vdso.so.1 =>  (0x00007ffd25745000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fa3604a4000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fa3600db000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055f868c38000)
+	linux-vdso.so.1 =>  (0x00007ffe4d052000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f6090753000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f609038a000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055d7bb836000)
+	linux-vdso.so.1 =>  (0x00007ffed29ae000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f8fc7ae9000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f8fc7720000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055f850f18000)
+	linux-vdso.so.1 =>  (0x00007fff5072e000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f3a9f406000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f3a9f03d000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055685f22a000)
+	linux-vdso.so.1 =>  (0x00007fffbb396000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fb19ec7e000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fb19e8b5000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055ac7350e000)
+	linux-vdso.so.1 =>  (0x00007ffc84137000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f834fb3e000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f834f775000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000561bea50c000)
+	linux-vdso.so.1 =>  (0x00007ffdd199a000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fdea5353000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fdea4f8a000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055ab23f9c000)
+	linux-vdso.so.1 =>  (0x00007ffc051b7000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fd9ee38b000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fd9edfc2000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055d594442000)
+	linux-vdso.so.1 =>  (0x00007fff51982000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f2b9c649000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f2b9c280000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055b7bff4c000)
+	linux-vdso.so.1 =>  (0x00007ffcea5c4000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f87a0303000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f879ff3a000)
+	/lib64/ld-linux-x86-64.so.2 (0x00005591bc3c9000)
+	linux-vdso.so.1 =>  (0x00007ffccecdf000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007ff2c67d7000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ff2c640e000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000556c082ec000)
+	linux-vdso.so.1 =>  (0x00007ffd9e5ce000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f0c9ae6c000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f0c9aaa3000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055e3ae0e6000)
+	linux-vdso.so.1 =>  (0x00007ffd1c5fe000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f2cb08e9000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f2cb0520000)
+	/lib64/ld-linux-x86-64.so.2 (0x000055cfd70aa000)
 	not a dynamic executable
 	not a dynamic executable
 	not a dynamic executable
@@ -53,9 +565,6 @@
 	not a dynamic executable
 	not a dynamic executable
 	not a dynamic executable
-	linux-vdso.so.1 =>  (0x00007ffd5ea31000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f2564fad000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005598cc4c3000)
 	not a dynamic executable
 	not a dynamic executable
 	not a dynamic executable
@@ -199,1051 +708,267 @@
 	not a dynamic executable
 	not a dynamic executable
 	not a dynamic executable
-	linux-vdso.so.1 =>  (0x00007ffd67d98000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007fed3fa61000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007fed3f7ac000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007fed3f586000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007fed3f1fe000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007fed3efe8000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007fed3edc5000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007fed3ebb8000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007fed3e8a4000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007fed3e657000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007fed3e3ad000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007fed3e16a000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007fed3df16000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007fed3dd12000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007fed3db10000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007fed3d907000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007fed3d5f6000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007fed3d3f0000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007fed3d06d000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007fed3cd64000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007fed3cb4e000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fed3c930000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fed3c567000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007fed3c22d000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007fed3c026000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007fed3be1c000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007fed3bc19000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007fed3ba08000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007fed3b7fd000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007fed3b5f3000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007fed3b3ef000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007fed3b1ec000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007fed3afda000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007fed3adbf000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007fed3ab9d000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007fed3a981000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007fed3a723000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007fed3a47a000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007fed3a255000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007fed3a051000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007fed39e46000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007fed39c24000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007fed39a1b000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007fed397f1000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007fed395e9000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fed393e4000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007fed39174000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000564de8eef000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007fed38f4e000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007fed38d4a000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007fed38b43000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007fed3893b000)
-	linux-vdso.so.1 =>  (0x00007ffc6e35b000)
-	libnio.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libnio.so (0x00007fe4bfd14000)
-	libnet.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libnet.so (0x00007fe4bfafc000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fe4bf8c2000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fe4bf6be000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007fe4bf491000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fe4bf0c8000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055c50edce000)
-	libjvm.so => not found
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007fe4beeb7000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffc6cdbd000)
-	libawt.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libawt.so (0x00007faff01ab000)
-	libawt_xawt.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libawt_xawt.so (0x00007fafeff51000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007fafefd25000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fafef93e000)
-	libjvm.so => not found
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007fafef635000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fafef430000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fafef213000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007fafef000000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007fafeecc6000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007fafeeabc000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007fafee8b5000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007fafee6a5000)
-	libjvm.so => not found
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007fafee495000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055feda858000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007fafee272000)
-	libjvm.so => not found
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007fafee06d000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007fafede67000)
-	linux-vdso.so.1 =>  (0x00007ffe789ab000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f3215c9c000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f3215a97000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f321586b000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f32154a2000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000564dab82e000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f3215292000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffe20bbc000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f80faafd000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f80fa716000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f80fa506000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f80fa302000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055e96d605000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffee732e000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f403b6f0000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f403b4c3000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f403b0fa000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f403aedc000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055629867d000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f403accd000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f403aac8000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffc879db000)
-	libjvm.so => not found
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f0ba4a94000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f0ba4890000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f0ba4664000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f0ba429a000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055cfbef31000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f0ba408b000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007fff4d5b2000)
-	libjvm.so => not found
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f28ee3d7000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f28ee00e000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f28eddfe000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f28edbfa000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005634242e4000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffd9c11c000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fd34b0e5000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fd34ad1b000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005642e1f5f000)
-	linux-vdso.so.1 =>  (0x00007ffd087eb000)
-	libgstreamer-lite.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libgstreamer-lite.so (0x00007f83462e9000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007f8346078000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007f8345e74000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007f8345c72000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007f8345a69000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007f8345758000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f83453d6000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f83450cc000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f8344eb6000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f8344c99000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f83448cf000)
-	libasound.so.2 => /usr/lib/x86_64-linux-gnu/libasound.so.2 (0x00007f83445cf000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007f83443c7000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f83441c2000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f8343f52000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000560510f1a000)
-	linux-vdso.so.1 =>  (0x00007ffda1df7000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f9958641000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f9958277000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000565383c9e000)
-	linux-vdso.so.1 =>  (0x00007ffe8393d000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f73b44f3000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f73b4129000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000556f506e2000)
-	linux-vdso.so.1 =>  (0x00007ffdfd4d7000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007f9bce2a9000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007f9bcdff4000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007f9bcddce000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007f9bcda46000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007f9bcd830000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007f9bcd60d000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007f9bcd400000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007f9bcd0ec000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007f9bcce9f000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007f9bccbf5000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007f9bcc9b2000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007f9bcc75e000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007f9bcc55a000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007f9bcc358000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007f9bcc14f000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007f9bcbe3e000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007f9bcbc38000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f9bcb8b5000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f9bcb5ac000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f9bcb396000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f9bcb178000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f9bcadaf000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007f9bcaa75000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007f9bca86e000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007f9bca664000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007f9bca461000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007f9bca250000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007f9bca045000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007f9bc9e3b000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007f9bc9c37000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007f9bc9a34000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007f9bc9822000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007f9bc9607000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007f9bc93e5000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007f9bc91c9000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007f9bc8f6b000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007f9bc8cc2000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007f9bc8a9d000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007f9bc8899000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007f9bc868e000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007f9bc846c000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007f9bc8263000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007f9bc8039000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007f9bc7e31000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f9bc7c2c000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f9bc79bc000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055aa8db07000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007f9bc7796000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007f9bc7592000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007f9bc738b000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007f9bc7183000)
-	linux-vdso.so.1 =>  (0x00007ffc43dd0000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f380be64000)
-	libxslt.so.1 => /usr/lib/x86_64-linux-gnu/libxslt.so.1 (0x00007f380bc27000)
-	libxml2.so.2 => /usr/lib/x86_64-linux-gnu/libxml2.so.2 (0x00007f380b86c000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f380b563000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f380b34d000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f380af83000)
-	/lib64/ld-linux-x86-64.so.2 (0x000056324e1c3000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f380ad7f000)
-	libicuuc.so.55 => /usr/lib/x86_64-linux-gnu/libicuuc.so.55 (0x00007f380a9eb000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007f380a7d0000)
-	liblzma.so.5 => /lib/x86_64-linux-gnu/liblzma.so.5 (0x00007f380a5ae000)
-	libicudata.so.55 => /usr/lib/x86_64-linux-gnu/libicudata.so.55 (0x00007f3808af7000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f3808774000)
-	linux-vdso.so.1 =>  (0x00007fff40f40000)
-	libjvm.so => not found
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f01fc933000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f01fc56a000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055bffc8cc000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f01fc354000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f01fc144000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f01fbf40000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffff6ae0000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fcc58db9000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055db475a1000)
-	linux-vdso.so.1 =>  (0x00007ffe24beb000)
-	libgstreamer-lite.so => not found
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007f08497da000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007f08494c8000)
-	libavcodec.so.54 => not found
-	libavformat.so.54 => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f08490fe000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007f0848ef6000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f0848c86000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f0848a68000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000563426cd3000)
-	not a dynamic executable
-	linux-vdso.so.1 =>  (0x00007fff7bf7d000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f2bbc409000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055745688a000)
-	linux-vdso.so.1 =>  (0x00007ffcabd41000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f2653afa000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f2653713000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f2653503000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f26532ff000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055da73738000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007fff2d78d000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007f06a99a7000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007f06a96f2000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007f06a94cc000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007f06a9144000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007f06a8f2e000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007f06a8d0b000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007f06a8afe000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007f06a87ea000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007f06a859d000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007f06a82f3000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007f06a80b0000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007f06a7e5c000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007f06a7c58000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007f06a7a56000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007f06a784d000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007f06a753c000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007f06a7336000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f06a6fb3000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f06a6caa000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f06a6a94000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f06a6876000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f06a64ad000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007f06a6173000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007f06a5f6c000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007f06a5d62000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007f06a5b5f000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007f06a594e000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007f06a5743000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007f06a5539000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007f06a5335000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007f06a5132000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007f06a4f20000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007f06a4d05000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007f06a4ae3000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007f06a48c7000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007f06a4669000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007f06a43c0000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007f06a419b000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007f06a3f97000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007f06a3d8c000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007f06a3b6a000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007f06a3961000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007f06a3737000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007f06a352f000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f06a332a000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f06a30ba000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000556bdc3a2000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007f06a2e94000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007f06a2c90000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007f06a2a89000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007f06a2881000)
-	linux-vdso.so.1 =>  (0x00007ffc7f690000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f462cdbe000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005582da9f0000)
-	linux-vdso.so.1 =>  (0x00007ffdf87f3000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f155370c000)
-	libawt.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libawt.so (0x00007f1553439000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f155320d000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f1552e43000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055e472c34000)
-	libjvm.so => not found
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f1552c3f000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f1552a2f000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffef1ef7000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f55aaae3000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f55aa6fc000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f55aa4ec000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f55aa2e8000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000564cd0833000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffeb6bea000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007ff449f5b000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007ff449ca6000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007ff449a80000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007ff4496f8000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007ff4494e2000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007ff4492bf000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007ff4490b2000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007ff448d9e000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007ff448b51000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007ff4488a7000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007ff448664000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007ff448410000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007ff44820c000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007ff44800a000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007ff447e01000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007ff447af0000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007ff4478ea000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007ff447567000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007ff44725e000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007ff447048000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007ff446e2a000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ff446a61000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007ff446727000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007ff446520000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007ff446316000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007ff446113000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007ff445f02000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007ff445cf7000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007ff445aed000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007ff4458e9000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007ff4456e6000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007ff4454d4000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007ff4452b9000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007ff445097000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007ff444e7b000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007ff444c1d000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007ff444974000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007ff44474f000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007ff44454b000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007ff444340000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007ff44411e000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007ff443f15000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007ff443ceb000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007ff443ae3000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007ff4438de000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007ff44366e000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005592880f9000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007ff443448000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007ff443244000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007ff44303d000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007ff442e35000)
-	linux-vdso.so.1 =>  (0x00007ffc209f9000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f4f7b846000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055a313283000)
-	linux-vdso.so.1 =>  (0x00007fff1cd72000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007f421792c000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007f4217677000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007f4217451000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007f42170c9000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007f4216eb3000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007f4216c90000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007f4216a83000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007f421676f000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007f4216522000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007f4216278000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007f4216035000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007f4215de1000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007f4215bdd000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007f42159db000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007f42157d2000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007f42154c1000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007f42152bb000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f4214f38000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f4214c2f000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f4214a19000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f42147fb000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f4214432000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007f42140f8000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007f4213ef1000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007f4213ce7000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007f4213ae4000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007f42138d3000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007f42136c8000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007f42134be000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007f42132ba000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007f42130b7000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007f4212ea5000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007f4212c8a000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007f4212a68000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007f421284c000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007f42125ee000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007f4212345000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007f4212120000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007f4211f1c000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007f4211d11000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007f4211aef000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007f42118e6000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007f42116bc000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007f42114b4000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f42112af000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f421103f000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055ddc6b3d000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007f4210e19000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007f4210c15000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007f4210a0e000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007f4210806000)
-	linux-vdso.so.1 =>  (0x00007ffee579b000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007fa1a36ce000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007fa1a34a1000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fa1a30d8000)
-	/lib64/ld-linux-x86-64.so.2 (0x000056496790b000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007fa1a2ec8000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fa1a2cc4000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffc145a1000)
-	libjvm.so => not found
-	libawt.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libawt.so (0x00007fc37bce3000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007fc37b9da000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fc37b7d6000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007fc37b5a9000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc37b1e0000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000558002b48000)
-	libjvm.so => not found
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007fc37afd0000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffec07f7000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f474f2d4000)
-	libfontmanager.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libfontmanager.so (0x00007f474f05a000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f474ee2e000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f474ea64000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000562301c99000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f474e84e000)
-	libawt.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libawt.so (0x00007f474e57c000)
-	libjvm.so => not found
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f474e36b000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f474e167000)
-	libjvm.so => not found
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffd86543000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f7065365000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f7064f9b000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055e07d394000)
-	linux-vdso.so.1 =>  (0x00007ffc5a351000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ffaa060c000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055b66761f000)
-	linux-vdso.so.1 =>  (0x00007ffe9e77e000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/jli/libjli.so (0x00007f96a6298000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f96a6076000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f96a5cad000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f96a5a90000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055c9628a2000)
-	linux-vdso.so.1 =>  (0x00007ffd45382000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f8ddc835000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f8ddc631000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f8ddc268000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055a1d192d000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffc2f9da000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f8b28b8f000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f8b287c5000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055d685b14000)
-	linux-vdso.so.1 =>  (0x00007ffd609e4000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007fbcbc3ff000)
-	libasound.so.2 => /usr/lib/x86_64-linux-gnu/libasound.so.2 (0x00007fbcbc0ff000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007fbcbbeab000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007fbcbbca7000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007fbcbbaa5000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007fbcbb89c000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007fbcbb58b000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fbcbb36e000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fbcbafa4000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000558b94b23000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fbcbada0000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007fbcbab98000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007fbcba927000)
-	linux-vdso.so.1 =>  (0x00007ffcf6ee0000)
-	libgstreamer-lite.so => not found
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007fc1f7a2a000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007fc1f7718000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc1f734f000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007fc1f7147000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007fc1f6ed6000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fc1f6cb9000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005587c1287000)
-	linux-vdso.so.1 =>  (0x00007ffc97bfe000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fa0756ca000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055c889745000)
-	linux-vdso.so.1 =>  (0x00007ffc9029d000)
-	libgstreamer-lite.so => not found
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007f43d3c29000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007f43d3917000)
-	libavcodec.so.53 => not found
-	libavformat.so.53 => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f43d354d000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007f43d3345000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f43d30d5000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f43d2eb7000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005568b2703000)
-	linux-vdso.so.1 =>  (0x00007fffc33b8000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007f6fc6508000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007f6fc6253000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007f6fc602d000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007f6fc5ca5000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007f6fc5a8f000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007f6fc586c000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007f6fc565f000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007f6fc534b000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007f6fc50fe000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007f6fc4e54000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007f6fc4c11000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007f6fc49bd000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007f6fc47b9000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007f6fc45b7000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007f6fc43ae000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007f6fc409d000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007f6fc3e97000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007f6fc3b5c000)
-	libXxf86vm.so.1 => /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1 (0x00007f6fc3956000)
-	libGL.so.1 => /usr/lib/x86_64-linux-gnu/mesa/libGL.so.1 (0x00007f6fc36e5000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f6fc3362000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f6fc3059000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f6fc2e43000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f6fc2c25000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f6fc285c000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007f6fc2656000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007f6fc244b000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007f6fc2248000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007f6fc2038000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007f6fc1e2c000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007f6fc1c22000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007f6fc1a1f000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007f6fc181b000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007f6fc1609000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007f6fc13ee000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007f6fc11cc000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007f6fc0fb1000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007f6fc0d52000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007f6fc0aaa000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007f6fc0884000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007f6fc0680000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007f6fc0476000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007f6fc0253000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007f6fc004a000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007f6fbfe20000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007f6fbfc18000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f6fbfa14000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f6fbf7a3000)
-	libxcb-dri3.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0 (0x00007f6fbf5a0000)
-	libxcb-present.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-present.so.0 (0x00007f6fbf39c000)
-	libxcb-sync.so.1 => /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1 (0x00007f6fbf195000)
-	libxshmfence.so.1 => /usr/lib/x86_64-linux-gnu/libxshmfence.so.1 (0x00007f6fbef92000)
-	libglapi.so.0 => /usr/lib/x86_64-linux-gnu/libglapi.so.0 (0x00007f6fbed63000)
-	libX11-xcb.so.1 => /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1 (0x00007f6fbeb61000)
-	libxcb-glx.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0 (0x00007f6fbe948000)
-	libxcb-dri2.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-dri2.so.0 (0x00007f6fbe742000)
-	libdrm.so.2 => /usr/lib/x86_64-linux-gnu/libdrm.so.2 (0x00007f6fbe533000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005614379bc000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007f6fbe30d000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007f6fbe109000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007f6fbdf02000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007f6fbdcfa000)
-	linux-vdso.so.1 =>  (0x00007fff11276000)
-	libawt.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libawt.so (0x00007f3ac372d000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f3ac3406000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f3ac31da000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f3ac2e10000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005560993e9000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f3ac2bfa000)
-	libjvm.so => not found
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f3ac29f5000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f3ac27e6000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffd7e697000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f155a8eb000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f155a522000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055adb458b000)
-	linux-vdso.so.1 =>  (0x00007ffe211b7000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007ff2c53d8000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007ff2c5123000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007ff2c4efd000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007ff2c4b75000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007ff2c495f000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007ff2c473c000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007ff2c452f000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007ff2c421b000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007ff2c3fce000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007ff2c3d24000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007ff2c3ae1000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007ff2c388d000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007ff2c3689000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007ff2c3487000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007ff2c327e000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007ff2c2f6d000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007ff2c2d67000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007ff2c29e4000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007ff2c26db000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007ff2c24c5000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007ff2c22a7000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ff2c1ede000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007ff2c1ba4000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007ff2c199d000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007ff2c1793000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007ff2c1590000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007ff2c137f000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007ff2c1174000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007ff2c0f6a000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007ff2c0d66000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007ff2c0b63000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007ff2c0951000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007ff2c0736000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007ff2c0514000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007ff2c02f8000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007ff2c009a000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007ff2bfdf1000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007ff2bfbcc000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007ff2bf9c8000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007ff2bf7bd000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007ff2bf59b000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007ff2bf392000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007ff2bf168000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007ff2bef60000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007ff2bed5b000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007ff2beaeb000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000562f3ef2e000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007ff2be8c5000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007ff2be6c1000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007ff2be4ba000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007ff2be2b2000)
-	linux-vdso.so.1 =>  (0x00007ffe05d69000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fc3ee3f7000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc3ee02d000)
-	/lib64/ld-linux-x86-64.so.2 (0x000056413246c000)
-	linux-vdso.so.1 =>  (0x00007ffe047e7000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f3507995000)
-	libjvm.so => not found
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f3507777000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f350754b000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f3507182000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055fcb42ba000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f3506f72000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffecafc7000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f97c3d7c000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f97c3b66000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055994a752000)
-	linux-vdso.so.1 =>  (0x00007ffe777f7000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007f9ded089000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007f9dece76000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f9decb6d000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f9dec950000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f9dec586000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007f9dec364000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f9dec160000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005556ffe16000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007f9debf5b000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007f9debd55000)
-	linux-vdso.so.1 =>  (0x00007fffb21ca000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007fe95c0d7000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007fe95be22000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007fe95bbfc000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007fe95b874000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007fe95b65e000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007fe95b43b000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007fe95b22e000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007fe95af1a000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007fe95accd000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007fe95aa23000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007fe95a7e0000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007fe95a58c000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007fe95a388000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007fe95a186000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007fe959f7d000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007fe959c6c000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007fe959a66000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007fe9596e3000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007fe9593da000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007fe9591c4000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fe958fa6000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fe958bdd000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007fe9588a3000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007fe95869c000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007fe958492000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007fe95828f000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007fe95807e000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007fe957e73000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007fe957c69000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007fe957a65000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007fe957862000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007fe957650000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007fe957435000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007fe957213000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007fe956ff7000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007fe956d99000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007fe956af0000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007fe9568cb000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007fe9566c7000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007fe9564bc000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007fe95629a000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007fe956091000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007fe955e67000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007fe955c5f000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fe955a5a000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007fe9557ea000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000559016807000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007fe9555c4000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007fe9553c0000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007fe9551b9000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007fe954fb1000)
-	linux-vdso.so.1 =>  (0x00007fffc7138000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f4bbb462000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f4bbb098000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055a1a4a8d000)
-	linux-vdso.so.1 =>  (0x00007fffaa9c6000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f5c75f9d000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055a4bca99000)
-	linux-vdso.so.1 =>  (0x00007ffdefbf0000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007f3eedccc000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007f3eeda17000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007f3eed7f1000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007f3eed469000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007f3eed253000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007f3eed030000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007f3eece23000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007f3eecb0f000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007f3eec8c2000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007f3eec618000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007f3eec3d5000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007f3eec181000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007f3eebf7d000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007f3eebd7b000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007f3eebb72000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007f3eeb861000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007f3eeb65b000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f3eeb2d8000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f3eeafcf000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f3eeadb9000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f3eeab9b000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f3eea7d2000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007f3eea498000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007f3eea291000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007f3eea087000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007f3ee9e84000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007f3ee9c73000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007f3ee9a68000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007f3ee985e000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007f3ee965a000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007f3ee9457000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007f3ee9245000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007f3ee902a000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007f3ee8e08000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007f3ee8bec000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007f3ee898e000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007f3ee86e5000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007f3ee84c0000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007f3ee82bc000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007f3ee80b1000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007f3ee7e8f000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007f3ee7c86000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007f3ee7a5c000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007f3ee7854000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f3ee764f000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f3ee73df000)
-	/lib64/ld-linux-x86-64.so.2 (0x000056308627b000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007f3ee71b9000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007f3ee6fb5000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007f3ee6dae000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007f3ee6ba6000)
-	linux-vdso.so.1 =>  (0x00007fffd0bf1000)
-	libasound.so.2 => /usr/lib/x86_64-linux-gnu/libasound.so.2 (0x00007f92d96f9000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f92d94cc000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f92d9103000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f92d8df9000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f92d8bf5000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f92d89d8000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007f92d87cf000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005586267a4000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f92d85c0000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007fffc5dc7000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007fbeadfbc000)
-	libnet.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libnet.so (0x00007fbeadda4000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fbeadb6a000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fbead966000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fbead59c000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007fbead38d000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005615cffa3000)
-	libjvm.so => not found
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffd9dbb0000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f56b5298000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f56b4eb1000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f56b4ca1000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f56b4a9d000)
-	/lib64/ld-linux-x86-64.so.2 (0x000056481eb3c000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007ffe583fa000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fd069fd1000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055c311477000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007fd069dbb000)
-	linux-vdso.so.1 =>  (0x00007fffc45c4000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f1cd4695000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f1cd438b000)
-	libawt.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libawt.so (0x00007f1cd40b9000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007f1cd3ea7000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007f1cd3b6c000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007f1cd3962000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f1cd375e000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007f1cd3557000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007f1cd3347000)
-	libjava.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libjava.so (0x00007f1cd311b000)
-	libjvm.so => not found
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f1cd2d51000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055d7c8b7e000)
-	libjvm.so => not found
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007f1cd2b2e000)
-	libjvm.so => not found
-	libverify.so => /home/sonny/Analyze_library/jre1.8.0_101/lib/amd64/libverify.so (0x00007f1cd291e000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007f1cd271a000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007f1cd2514000)
-	libjvm.so => not found
-	linux-vdso.so.1 =>  (0x00007fff705b0000)
-	libgtk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so.0 (0x00007fcf0342c000)
-	libgdk-x11-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk-x11-2.0.so.0 (0x00007fcf03177000)
-	libatk-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0 (0x00007fcf02f51000)
-	libgio-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0 (0x00007fcf02bc9000)
-	libpangoft2-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0 (0x00007fcf029b3000)
-	libgdk_pixbuf-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0 (0x00007fcf02790000)
-	libpangocairo-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0 (0x00007fcf02583000)
-	libcairo.so.2 => /usr/lib/x86_64-linux-gnu/libcairo.so.2 (0x00007fcf0226f000)
-	libpango-1.0.so.0 => /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0 (0x00007fcf02022000)
-	libfreetype.so.6 => /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007fcf01d78000)
-	libfontconfig.so.1 => /usr/lib/x86_64-linux-gnu/libfontconfig.so.1 (0x00007fcf01b35000)
-	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007fcf018e1000)
-	libgmodule-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0 (0x00007fcf016dd000)
-	libgthread-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgthread-2.0.so.0 (0x00007fcf014db000)
-	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007fcf012d2000)
-	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007fcf00fc1000)
-	libXtst.so.6 => /usr/lib/x86_64-linux-gnu/libXtst.so.6 (0x00007fcf00dbb000)
-	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007fcf00a38000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007fcf0072f000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007fcf00519000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fcf002fb000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fcefff32000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007fceffbf8000)
-	libXfixes.so.3 => /usr/lib/x86_64-linux-gnu/libXfixes.so.3 (0x00007fceff9f1000)
-	libXrender.so.1 => /usr/lib/x86_64-linux-gnu/libXrender.so.1 (0x00007fceff7e7000)
-	libXinerama.so.1 => /usr/lib/x86_64-linux-gnu/libXinerama.so.1 (0x00007fceff5e4000)
-	libXi.so.6 => /usr/lib/x86_64-linux-gnu/libXi.so.6 (0x00007fceff3d3000)
-	libXrandr.so.2 => /usr/lib/x86_64-linux-gnu/libXrandr.so.2 (0x00007fceff1c8000)
-	libXcursor.so.1 => /usr/lib/x86_64-linux-gnu/libXcursor.so.1 (0x00007fcefefbe000)
-	libXcomposite.so.1 => /usr/lib/x86_64-linux-gnu/libXcomposite.so.1 (0x00007fcefedba000)
-	libXdamage.so.1 => /usr/lib/x86_64-linux-gnu/libXdamage.so.1 (0x00007fcefebb7000)
-	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007fcefe9a5000)
-	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007fcefe78a000)
-	libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1 (0x00007fcefe568000)
-	libresolv.so.2 => /lib/x86_64-linux-gnu/libresolv.so.2 (0x00007fcefe34c000)
-	libharfbuzz.so.0 => /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0 (0x00007fcefe0ee000)
-	libpixman-1.so.0 => /usr/lib/x86_64-linux-gnu/libpixman-1.so.0 (0x00007fcefde45000)
-	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007fcefdc20000)
-	libxcb-shm.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0 (0x00007fcefda1c000)
-	libxcb-render.so.0 => /usr/lib/x86_64-linux-gnu/libxcb-render.so.0 (0x00007fcefd811000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007fcefd5ef000)
-	libthai.so.0 => /usr/lib/x86_64-linux-gnu/libthai.so.0 (0x00007fcefd3e6000)
-	libexpat.so.1 => /lib/x86_64-linux-gnu/libexpat.so.1 (0x00007fcefd1bc000)
-	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007fcefcfb4000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fcefcdaf000)
-	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007fcefcb3f000)
-	/lib64/ld-linux-x86-64.so.2 (0x000056301524b000)
-	libgraphite2.so.3 => /usr/lib/x86_64-linux-gnu/libgraphite2.so.3 (0x00007fcefc919000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007fcefc715000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007fcefc50e000)
-	libdatrie.so.1 => /usr/lib/x86_64-linux-gnu/libdatrie.so.1 (0x00007fcefc306000)
-	linux-vdso.so.1 =>  (0x00007fffe08ae000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f0a61f4c000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f0a61d48000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f0a61b2a000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f0a61761000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005613619f1000)
-	linux-vdso.so.1 =>  (0x00007ffce7dc6000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007ff1b1bce000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007ff1b1805000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055dea3e63000)
-	not a dynamic executable
-	linux-vdso.so.1 =>  (0x00007ffc8c5b7000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f2779837000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f277946d000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f2779250000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000564196585000)
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	not a dynamic executable
-	linux-vdso.so.1 =>  (0x00007ffd72fc2000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f685a4e2000)
-	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f685a2cb000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055c16d60d000)
-	linux-vdso.so.1 =>  (0x00007ffefbb3a000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f80803fc000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007f80801e5000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f807ffe1000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f807fc18000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005583f209a000)
-	linux-vdso.so.1 =>  (0x00007ffddf2e6000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fb3e320f000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007fb3e2ff8000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fb3e2df4000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fb3e2a2b000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000557decf15000)
-	linux-vdso.so.1 =>  (0x00007ffe72195000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f0f1b5f3000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007f0f1b3dc000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f0f1b1d8000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f0f1ae0f000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055bff04e1000)
-	linux-vdso.so.1 =>  (0x00007ffeea7c8000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f5052241000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007f505202a000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f5051e26000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f5051a5d000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000555a8bfad000)
-	linux-vdso.so.1 =>  (0x00007ffd397ea000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f6df05a6000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007f6df038f000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f6df018b000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f6defdc2000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055d4a1712000)
-	linux-vdso.so.1 =>  (0x00007fff5d3ae000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007faa5f039000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007faa5ee22000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007faa5ec1e000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007faa5e855000)
-	/lib64/ld-linux-x86-64.so.2 (0x00005628d19e6000)
-	linux-vdso.so.1 =>  (0x00007ffcff5cc000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fb78ffc0000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007fb78fc85000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007fb78fa6f000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fb78f86b000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fb78f4a1000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055adb706c000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007fb78f27f000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007fb78f07b000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007fb78ee74000)
-	not a dynamic executable
-	not a dynamic executable
-	linux-vdso.so.1 =>  (0x00007ffc1d6b8000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f3f3960a000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007f3f393f3000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f3f391ef000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f3f38e26000)
-	/lib64/ld-linux-x86-64.so.2 (0x0000564c81250000)
-	linux-vdso.so.1 =>  (0x00007ffdae3dc000)
-	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007fecca4fa000)
-	libnsl.so.1 => /lib/x86_64-linux-gnu/libnsl.so.1 (0x00007fecca2e1000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fecca0dc000)
-	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007fecc9dd3000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fecc9a0a000)
-	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007fecc97e7000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055a200865000)
-	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007fecc95e3000)
-	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007fecc93dd000)
-	linux-vdso.so.1 =>  (0x00007ffd78db7000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fc9718fd000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007fc9716e6000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fc9714e2000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc971119000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055ff8b438000)
-	linux-vdso.so.1 =>  (0x00007ffff2bf1000)
-	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007fc3f0a31000)
-	libjli.so => /home/sonny/Analyze_library/jre1.8.0_101/bin/../lib/amd64/jli/libjli.so (0x00007fc3f081a000)
-	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007fc3f0616000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007fc3f024d000)
-	/lib64/ld-linux-x86-64.so.2 (0x000055e251b88000)
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
+	not a dynamic executable
 	not a dynamic executable
 	not a dynamic executable

@@ -3,12 +3,14 @@
 
 import os
 
-f=file('/home/sonny/usrbindynamic.txt','r')
+clear = file('chuli.txt','wb')
+name = 'firefox'
+m='whereis %s >>chuli.txt' %name
+os.system(m)
+lines = file('chuli.txt','r')
+for line in lines:
 
-info=f.readlines()
-for line in info:
-    k=line.split(',')[0].replace('\'','')
-    # print k
-    m='cp %s /home/sonny/benchmark/library' %k
-    # print m
-    os.system(m)
+    line = line.replace('\n','')
+    line = line.split(' ')
+    for i in range(1,len(line)):
+        print line[i]

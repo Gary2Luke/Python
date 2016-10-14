@@ -5,7 +5,7 @@ import os
 # path=os.getcwd()
 # path=path.replace('\\','/')
 # path=raw_input('Please input path:\n')
-path='/home/sonny/benchmark'
+path='/usr/bin/firefox'
 
 # type='current ar archive'         #static library
 g = file('chuli.txt', 'w')
